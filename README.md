@@ -1,6 +1,6 @@
 # Vibecoding Project Manager
 
-A brutalist-styled tool to manage, deploy, and share development servers for your vibecoding projects. Features automatic server lifecycle management, LAN forwarding, ngrok integration, and a waiting room queue system for remote users.
+A brutalist-styled tool to manage, deploy, and share development servers for your vibecoding projects. Features automatic server lifecycle management, LAN forwarding, ngrok integration, and a waiting room queue system for remote users (in development).
 
 ## Features
 
@@ -173,8 +173,6 @@ MIT License - Feel free to use and modify as needed.
 
 ## Support
 
-For issues or questions, please check:
-1. This README for common solutions
-2. Server logs in the application
-3. Browser console for frontend errors
-4. Backend terminal for API errors
+## Contact
+
+
